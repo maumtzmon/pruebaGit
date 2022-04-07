@@ -1,3 +1,4 @@
+
 Readme
 
 Instrucciones para un subir un nuevo repositorio git en github.
@@ -18,3 +19,6 @@ git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
 git push -u origin master
 
 3.- Con git add agrega los nuevos archivos, no olvides hacer commits ;)
+
+4.- Comparte el repositorio con tus amigos 
+
